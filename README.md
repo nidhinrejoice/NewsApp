@@ -7,3 +7,4 @@ An app that displays world news from the news api
 * Retrofit
 * Kotlin flows
 * Room for Sqlite
+* MVVM & Clean Architecture
